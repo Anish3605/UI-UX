@@ -2,12 +2,12 @@ HMT Watches: Comparative UX Evaluation (CCA3)
 Group Members
 #	Name	PRN
 1	Anish Bandal	1032240033
-2	[Insert Member 2 Name]	[Insert PRN]
-3	[Insert Member 3 Name]	[Insert PRN]
-4	[Insert Member 4 Name]	[Insert PRN]
+2	Mayank Raut 1032240056
+3	Vansh Ashija  1032240032
+
 Figma Prototype
 
-Link: [Paste your Figma prototype link here]
+Link:- https://www.figma.com/make/OwpmpJ3nGWkHvzJWgm6h0N/E-commerce-Website-Redesign-Prototype?t=fqtQP8taneMBEuY8-20&fullscreen=1
 (View access shared with shbichauhan@gmail.com and piyush.chauhan@mitwpu.edu.in)
 
 Final Conclusion Summary
